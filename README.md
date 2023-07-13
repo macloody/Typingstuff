@@ -1,6 +1,6 @@
 # Typingstuff
 This is my first project and it's a small site about horses.
-Main goal was to learn how to use framework Django, use model MTV and ORM.
+Main goal was to learn how to use Django framework, use model MTV and ORM.
 Main features that project has:
   Multiple viewvs and models
   Custom statics
